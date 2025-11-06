@@ -5,3 +5,7 @@
 ``` javascript
 var favoriteNumber = 7;
 ```
+
+- [ ] Make a sandwich.
+- [ ] Log in to computer.
+- [ ] Eat sandwich and code.
